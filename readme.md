@@ -13,7 +13,7 @@ CircuiTikZ produces beautiful results, but it's time-consuming. Most people draw
 
 The problem is that many of the shapes do not align themselves - or their connectors - to the drawing grid and are completely mismatched in size. They are also not setup to handle text-labels from the get-go, e.g. if you rotate an element, the symbol will be obscured by its own label.
 
-This means that drawing circuit in **Draw.io** becomes much more of an exercise in aligning and scaling shapes, which is annoying and time-comsuming.
+This means that drawing circuits in **Draw.io** becomes much more of an exercise in aligning and scaling shapes, which is annoying and time-comsuming.
 
 Hence these simple [libraries](/libraries/), which aim to fix these issues.
 
