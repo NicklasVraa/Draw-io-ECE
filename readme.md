@@ -44,3 +44,6 @@ Want to add more components to the library?
 I encourage you to read this [tutorial](https://drawio.freshdesk.com/support/solutions/articles/16000052874-create-and-edit-complex-custom-shapes), if you want to add complex custom shapes.
 
 If you know of a better tool for drawing ECE-diagrams such as circuits for academic reports, let me know.
+
+---
+**LEGAL NOTICE**: This repository, including any and all of its forks and derivatives, may NOT be used in the development or training of any machine learning model of any kind, without the explicit permission of the owner of the original repository.
