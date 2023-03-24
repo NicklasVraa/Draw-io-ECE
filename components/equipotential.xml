@@ -1,0 +1,22 @@
+<shape h="20" w="20" aspect="variable" strokewidth="inherit">
+  <connections>
+    <constraint x="0.5" y="0" perimeter="1"/>
+  </connections>
+  <background>
+
+  </background>
+  <foreground>
+    <fillstroke/>
+    <path>
+      <move x="10" y="0"/>
+      <line x="10" y="5"/>
+      <move x="4" y="5"/>
+      <line x="16" y="5"/>
+      <move x="6" y="7"/>
+      <line x="14" y="7"/>
+      <move x="8" y="9"/>
+      <line x="12" y="9"/>
+    </path>
+    <stroke/>
+  </foreground>
+</shape>
