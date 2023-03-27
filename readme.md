@@ -33,7 +33,10 @@ Another benefit of Draw.io: Dark mode!
 ## Exporting
 To use your drawings in your LaTeX-report, export them as a cropped PDF from Draw.io and then import them into your `.tex` document. This ensures that everything is formatted and positioned correctly.
 
-You can optionally remove the white background by opening the PDF-file in Inkscape or similar and delete it, then save as SVG.
+You can optionally remove the white background by opening the PDF-file in Inkscape or similar, and delete it, then save as SVG. Here is a tiny Inkscape script that does exactly that:
+```
+inkscape --verb=EditSelectNext --verb=EditDelete --verb=FitCanvasToSelectionOrDrawing --verb=FileSaveAs --verb=FileSave --verb=FileClose --verb=FileQuit your_file.pdf
+```
 
 ## Contributing
 Want to add more components to the library?
