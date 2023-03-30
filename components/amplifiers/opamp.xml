@@ -3,16 +3,21 @@
     <constraint x="0" y="0.2" perimeter="1"/>
     <constraint x="0" y="0.8" perimeter="1"/>
     <constraint x="1" y="0.5" perimeter="1"/>
+    <constraint x="0.5" y="0.2"/>
+    <constraint x="0.5" y="0.8"/>
   </connections>
   <background>
+
+  </background>
+  <foreground>
+    <fillstroke/>
     <path>
       <move x="10" y="0"/>
       <line x="10" y="100"/>
       <line x="90" y="50"/>
       <close/>
     </path>
-  </background>
-  <foreground>
+    <stroke/>
     <fillstroke/>
     <path>
       <move x="0" y="20"/>
