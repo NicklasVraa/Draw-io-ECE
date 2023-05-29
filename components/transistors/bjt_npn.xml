@@ -21,10 +21,10 @@
       <line x="40" y="70"/>
       <line x="40" y="80"/>
 
-      <move x="40" y="10"/>
-      <line x="35" y="11"/>
-      <move x="40" y="10"/>
-      <line x="38" y="15"/>
+      <move x="40" y="70"/>
+      <line x="35" y="69"/>
+      <move x="40" y="70"/>
+      <line x="38" y="65"/>
     </path>
     <stroke/>
   </foreground>

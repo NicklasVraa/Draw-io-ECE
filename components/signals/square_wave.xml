@@ -1,0 +1,20 @@
+<shape h="20" w="80" aspect="variable" strokewidth="inherit">
+  <background>
+
+  </background>
+  <foreground>
+    <fillstroke />
+    <path>
+      <move x="0" y="20"/>
+      <line x="0" y="0"/>
+      <line x="20" y="0"/>
+      <line x="20" y="20"/>
+      <line x="40" y="20"/>
+      <line x="40" y="0"/>
+      <line x="60" y="0"/>
+      <line x="60" y="20"/>
+      <line x="80" y="20"/>
+    </path>
+    <stroke />
+  </foreground>
+</shape>
