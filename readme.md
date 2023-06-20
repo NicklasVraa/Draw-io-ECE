@@ -19,7 +19,7 @@ This means that drawing circuits in **Draw.io** becomes much more of an exercise
 Hence this simple [library](ECE.xml).
 
 ## Importing
-In Draw.io, simply click `File` in the menu-bar, and then choose `Open library` and then navigate to the `xml`-file.
+In Draw.io, simply click `File` in the menu-bar, and then choose `Open library` and then navigate to the `xml`-file. I highly recommend turning off view->guides as to make componenents only align to the grid.
 
 These are the ECE-components, which are currently available.
 ![analog](meta/analog.png)
