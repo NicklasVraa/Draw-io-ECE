@@ -21,7 +21,7 @@ Hence this simple [library](ECE.xml).
 ## Importing
 In Draw.io, simply click `File` in the menu-bar, and then choose `Open library` and then navigate to the `xml`-file. I highly recommend turning off view->guides as to make componenents only align to the grid.
 
-These are the ECE-components, which are currently available.
+These are some the ECE-components, which are currently available.
 ![analog](meta/analog.png)
 ![digital](meta/digital.png)
 ![graph](meta/graph.png)
@@ -33,7 +33,7 @@ Another benefit of Draw.io: Dark mode!
 ## Exporting
 To use your drawings in your LaTeX-report, export them as a cropped PDF from Draw.io and then import them into your `.tex` document. This ensures that everything is formatted and positioned correctly.
 
-You can optionally remove the white background by opening the PDF-file in Inkscape or similar, and delete it, then save as SVG. Here is a tiny Inkscape script that does exactly that:
+You can optionally remove the white background by opening the PDF-file in Inkscape or similar, and delete it, then save as SVG. Here is a tiny Inkscape script that does exactly that, only requiring you to press enter twice:
 ```
 inkscape --verb=EditSelectNext --verb=EditDelete --verb=FitCanvasToSelectionOrDrawing --verb=FileSaveAs --verb=FileSave --verb=FileClose --verb=FileQuit your_file.pdf
 ```
