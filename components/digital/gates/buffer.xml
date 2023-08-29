@@ -1,0 +1,21 @@
+<shape h="100" w="100" aspect="variable" strokewidth="inherit">
+  <connections>
+    <constraint x="0" y="0.5"/>
+    <constraint x="1" y="0.5"/>
+  </connections>
+  <background>
+  </background>
+  <foreground>
+    <!-- Triangle and output -->
+    <fillstroke/>
+      <path>
+        <move x="0" y="0"/>
+        <line x="0" y="100"/>
+        <line x="80" y="50"/>
+        <close/>
+        <move x="80" y="50"/>
+        <line x="100" y="50"/>
+      </path>
+    <stroke/>
+  </foreground>
+</shape>
