@@ -1,0 +1,3 @@
+{
+  "css": ":root { --dark-color: #3b4252 !important; --header-color: #2e3440 !important; --panel-color: #2e3440 !important; --text-color: #d8dee9 !important; --border-color: #3b4252 !important; } .geToolbar, .geHsplit, .geSidebarContainer, .geMenubar, .geSidebarContainer, .geFormatContainer, .geTabContainer, .geMenubarContainer, .geToolbarContainer { border-color: var(--border-color) !important; } .geStatusAlert { background-color: #2e3440 !important; border: none !important; } .geBackgroundPage { background-color: #232831 !important; border-style: none !important; } .geDiagramContainer, .geDiagramBackdrop { background-color: #232831 !important; } .geFormatSection { background-color: var(--panel-color) !important; }"
+}
