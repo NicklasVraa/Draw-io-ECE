@@ -58,7 +58,7 @@ Want to add more components to the library?
 - Make sure that your components align with the grid - especially their connection-points - when the element has its proper scaling.
 - Remember to setup the text-label and try it in all four orientations.
 
-I encourage you to read this [tutorial](https://drawio.freshdesk.com/support/solutions/articles/16000052874-create-and-edit-complex-custom-shapes), if you want to add complex custom shapes.
+I encourage you to read this [tutorial](https://www.drawio.com/doc/faq/shape-complex-create-edit), if you want to add complex custom shapes.
 
 If you know of a better tool for drawing ECE-diagrams such as circuits for academic reports, let me know.
 
