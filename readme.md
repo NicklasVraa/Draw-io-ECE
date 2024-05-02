@@ -33,7 +33,7 @@ Another benefit of Draw.io: Dark mode and customizable UI.
 |---|---|
 | ![screenshot](meta/dark_mode.png) | ![screenshot](meta/nord_mode.png) |
 
-To apply a theme, click `Extras` in the menu-bar, then `Configuration...` and paste the contents of `themes/some_theme.json`, like [nord.json](themes/nord.json), into the text-area.
+To apply a theme, click `Extras` in the menu-bar, then `Configuration...` and paste the contents of `themes/some_theme.json`, like [nord.json](themes/nord.json), into the text-area. Before applying a darkish theme, like nord, have the built-in theme set to dark, and vice-versa for light themes.
 
 ## Exporting
 To use your drawings in your LaTeX-report, export them as a cropped PDF from Draw.io and then import them into your `.tex` document. This ensures that everything is formatted and positioned correctly.
