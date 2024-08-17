@@ -33,7 +33,7 @@ Another benefit of Draw.io: Dark mode and customizable UI.
 |---|---|
 | ![screenshot](meta/dark_mode.png) | ![screenshot](meta/nord_mode.png) |
 
-To apply a theme, click `Extras` in the menu-bar, then `Configuration...` and paste the contents of `themes/some_theme.json`, like [nord.json](themes/nord.json), into the text-area.
+To apply a theme, click `Extras` in the menu-bar, then `Configuration...` and paste the contents of `themes/some_theme.json`, like [nord.json](themes/nord.json), into the text-area. Before applying a darkish theme, like nord, have the built-in theme set to dark, and vice-versa for light themes.
 
 ## Exporting
 To use your drawings in your LaTeX-report, export them as a cropped PDF from Draw.io and then import them into your `.tex` document. This ensures that everything is formatted and positioned correctly.
@@ -58,7 +58,7 @@ Want to add more components to the library?
 - Make sure that your components align with the grid - especially their connection-points - when the element has its proper scaling.
 - Remember to setup the text-label and try it in all four orientations.
 
-I encourage you to read this [tutorial](https://drawio.freshdesk.com/support/solutions/articles/16000052874-create-and-edit-complex-custom-shapes), if you want to add complex custom shapes.
+I encourage you to read this [tutorial](https://www.drawio.com/doc/faq/shape-complex-create-edit), if you want to add complex custom shapes.
 
 If you know of a better tool for drawing ECE-diagrams such as circuits for academic reports, let me know.
 
