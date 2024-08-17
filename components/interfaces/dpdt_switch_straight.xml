@@ -1,0 +1,40 @@
+<shape h="40" w="80" aspect="variable" strokewidth="inherit">
+  <connections>
+    <constraint x="0" y="0" perimeter="1"/>
+    <constraint x="0" y="1" perimeter="1"/>
+    <constraint x="1" y="0" perimeter="1"/>
+    <constraint x="1" y="1" perimeter="1"/>
+  </connections>
+  <background>
+  </background>
+  <foreground>
+    <fillstroke/>
+    <path>
+      <move x="00" y="0"/>
+      <line x="17" y="0"/>
+      <move x="23" y="0"/>
+      <line x="57" y="0"/>
+      <move x="63" y="0"/>
+      <line x="80" y="0"/>
+      <move x="00" y="40"/>
+      <line x="17" y="40"/>
+      <move x="23" y="40"/>
+      <line x="57" y="40"/>
+      <move x="63" y="40"/>
+      <line x="80" y="40"/>
+    </path>
+    <stroke/>
+    <fillstroke/>
+      <ellipse x="17" y="-3" w="6" h="6"/>
+    <stroke/>
+    <fillstroke/>
+      <ellipse x="57" y="-3" w="6" h="6"/>
+    <stroke/>
+    <fillstroke/>
+      <ellipse x="17" y="37" w="6" h="6"/>
+    <stroke/>
+    <fillstroke/>
+      <ellipse x="57" y="37" w="6" h="6"/>
+    <stroke/>
+  </foreground>
+</shape>

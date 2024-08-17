@@ -10,22 +10,23 @@
     <fillstroke/>
     <path>
       <move x="0" y="20"/>
-      <line x="20" y="20"/>
-      <line x="60" y="0"/>
-      <move x="60" y="0"/>
+      <line x="17" y="20"/>
+      <move x="23" y="20"/>
+      <line x="57" y="0"/>
+      <move x="63" y="0"/>
       <line x="80" y="0"/>
-      <move x="60" y="40"/>
+      <move x="63" y="40"/>
       <line x="80" y="40"/>
     </path>
     <stroke/>
     <fillstroke/>
-      <ellipse x="19" y="19" w="2" h="2"/>
+      <ellipse x="17" y="17" w="6" h="6"/>
     <stroke/>
     <fillstroke/>
-      <ellipse x="59" y="-1" w="2" h="2"/>
+      <ellipse x="57" y="-3" w="6" h="6"/>
     <stroke/>
     <fillstroke/>
-      <ellipse x="59" y="39" w="2" h="2"/>
+      <ellipse x="57" y="37" w="6" h="6"/>
     <stroke/>
   </foreground>
 </shape>
